@@ -356,11 +356,11 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 ## 📫 İletişim
 
 **Proje Sahibi**: [Adınız]
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- LinkedIn: [necatictnkya1](https://www.linkedin.com/in/necatictnkya1/)
 - Email: your.email@example.com
-- Medium: [@username](https://medium.com/@username)
+- Medium: [@necatictnkya1](https://medium.com/@necatictnkya1)
 
-**Proje Linki**: [https://github.com/username/crm-analytics-rfm-cltv](https://github.com/username/crm-analytics-rfm-cltv)
+**Proje Linki**: [https://github.com/necatictnkya1/crm-analytics-rfm-cltv](https://github.com/necatictnkya1/crm-analytics-rfm-cltv)
 
 ---
 
@@ -391,7 +391,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ### ⭐ Bu projeyi beğendiyseniz, star vermeyi unutmayın!
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [PYTHON]**
 
 [⬆ Başa Dön](#-crm-analytics-rfm--cltv-prediction)
 
