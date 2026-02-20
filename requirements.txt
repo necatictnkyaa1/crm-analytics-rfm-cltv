@@ -1,0 +1,30 @@
+# CRM Analytics Project - Python Requirements
+# Python 3.8+ gereklidir
+
+# Veri Manipülasyonu ve Analiz
+pandas>=2.0.0
+numpy>=1.24.0
+
+# CLTV Modelleri (BG-NBD, Gamma-Gamma)
+lifetimes>=0.11.3
+
+# Görselleştirme
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Makine Öğrenmesi Araçları
+scikit-learn>=1.2.0
+
+# Excel Dosyalarını Okuma (opsiyonel)
+openpyxl>=3.1.0
+
+# Jupyter Notebook (opsiyonel)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Kod Kalitesi (opsiyonel)
+black>=23.0.0
+flake8>=6.0.0
+
+# PyCharm için type hints
+mypy>=1.0.0
